@@ -2,4 +2,4 @@
 cd ~/Documents/claude/site
 git add .
 git commit -m "Update posts"
-git push && exit 0
+git push && osascript -e 'tell application "Terminal" to close front window'
