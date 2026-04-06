@@ -1,7 +1,8 @@
 ---
-title: "The Nest, 2020"
-date: 2020-01-01
-draft: false
+title: "Гнездо"
+date: 2020-08-16
+draft: true
+tags: ["красота"]
 ---
 
 Due to increasing political repressions, in 2020 Moscow didn't feel like a safe space for me (or any politically active person). To examine this feeling, I found an industrial platform located in the tree crowns and redecorated it into a safe nest. Strangers could follow the lights and music, climb to the nest, and there I would conduct short meditation and art therapy sessions. After a few hours, the police arrived and stopped the event (luckily, I wasn't arrested). They were alerted by an old lady from a house nearby.

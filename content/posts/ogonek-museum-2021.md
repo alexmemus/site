@@ -1,7 +1,8 @@
 ---
-title: "Ogonek Museum, 2021"
-date: 2021-01-01
-draft: false
+title: "Музей Огонька"
+date: 2021-08-07
+draft: true
+tags: ["красота"]
 ---
 
 [Ogonek](https://russianburners.com/events/ogonek) is a local Russian Burn event — a smaller scale Burning Man.
