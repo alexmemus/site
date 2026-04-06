@@ -1,7 +1,7 @@
 ---
 title: "Работает за копейки"
 date: 2017-07-27
-draft: false
+draft: true
 tags: ["красота"]
 ---
 
